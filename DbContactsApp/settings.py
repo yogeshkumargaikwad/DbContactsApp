@@ -9,7 +9,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ALLOWED_HOSTS = (
-    'localhost',
+    'localhost','infinite-everglades-75721'
 )
 
 ADMINS = (
